@@ -1,3 +1,3 @@
-![Unique visitors](https://img.shields.io/badge/Unique%20visitors-0-blue)
+[![HitCount](https://hits.dwyl.com/msgowrisekar/msgowrisekar.svg?style=flat-square)](http://hits.dwyl.com/msgowrisekar/msgowrisekar)
 
 
